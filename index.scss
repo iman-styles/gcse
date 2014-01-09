@@ -1,0 +1,40 @@
+// Google custom search box styles
+// 
+
+.search-box {
+  width: 300px;   
+}
+
+.search-box__preload {
+  width: 250px;   
+  height: 29px;
+  background-color: #fff;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+}
+
+.search-box input.gsc-input  {
+  font-size: 14px !important; 
+}
+
+.search-box input.gsc-search-button-v2 {
+  padding: 8px 15px;
+  margin: 0 0 0 5px;
+}
+
+.search-box .gsc-input-box {
+  border: none;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  padding: 2px;
+  width: 245px;
+}
+
+.search-box .gsst_a {
+  padding-top: 6px;
+}
+
+.search-box .gsib_a {
+  padding-top: 2px;
+}
+
